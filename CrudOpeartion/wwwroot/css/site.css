@@ -1,0 +1,25 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Start My Styles */
+.cover-preview{
+    max-height: 500px;
+    border-radius: 8px;
+}
+/* End My Styles */
